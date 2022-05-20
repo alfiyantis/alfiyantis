@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alfynts
+- 👋 Hi, I’m Alfiyanti
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning basic machine learning
 - 💞️ I’m looking to collaborate on supervised and unsupervised machine learning
