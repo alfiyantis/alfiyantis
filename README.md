@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfiyanti
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning basic machine learning
+- 👀 I’m interested in data field (analysis, engineer, and science)
+- 🌱 I’m currently learning data analysis and basic machine learning
 - 💞️ I’m looking to collaborate on supervised and unsupervised machine learning
 - 📫 How to reach me https://linkedin.com/in/alfiyantis/
 
